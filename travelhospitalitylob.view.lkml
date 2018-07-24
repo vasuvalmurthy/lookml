@@ -35,7 +35,7 @@ view: travelhospitalitylob {
     sql: ${TABLE}.totaltripcnt ;;
   }
 
-  dimension_group: traveldate {
+ dimension_group: traveldate {
     type: time
     timeframes: [
       raw,
