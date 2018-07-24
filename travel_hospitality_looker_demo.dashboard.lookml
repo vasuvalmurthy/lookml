@@ -55,7 +55,7 @@
     hidden_series: []
     listen:
       Select Date Range: travelhospitalitylob.traveldate_date
-      Select Company ID: travelhospitalitylob.groupaccountid
+
     refresh: 1 day
     row: 2
     col: 5
@@ -114,7 +114,7 @@
     hidden_series: []
     listen:
       Select Date Range: travelhospitalitylob.traveldate_date
-      Select Company ID: travelhospitalitylob.groupaccountid
+
     refresh: 1 day
     row: 0
     col: 5
@@ -171,7 +171,7 @@
     series_colors: {}
     hidden_series: []
     listen:
-      Select Company ID: travelhospitalitylob.groupaccountid
+
     refresh: 1 day
     row: 5
     col: 0
@@ -307,7 +307,7 @@
     reference_lines: []
     trend_lines: []
     listen:
-      Select Company ID: travelhospitalitylob.groupaccountid
+
     refresh: 1 day
     row: 5
     col: 12
